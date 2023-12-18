@@ -1,24 +1,18 @@
 # TOURISM-WEBSITE
 
 
-Describe your project in a sentence or two.
+
 
 ## Table of Contents
 
 - [Project Description](#project-description)
 - [Technologies Used](#technologies-used)
-- [Features](#features)
-- [Getting Started](#getting-started)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Database Setup](#database-setup)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Project Description
 
-Provide a more detailed description of your project. Explain its purpose and any unique features. Mention any specific goals or objectives you had in mind.
+Discover the world with HERMES, your gateway to unforgettable travel adventures. Our sleek and modern website is designed with simplicity in mind, offering an intuitive and delightful user experience.
 
 ## Technologies Used
 
@@ -29,23 +23,15 @@ List the technologies, languages, and frameworks used in your project. For examp
 - PHP(PHP MYADMIN)
 - JavaScript
 - SQL (MySQL)
-- [Any other libraries or tools you used]
 
-## Features
 
-Highlight the key features of your website:
 
-- Feature 1: Describe feature 1.
-- Feature 2: Describe feature 2.
-- ...
 
-## Getting Started
 
-Provide instructions for setting up and running your project locally. This may include prerequisites, installation steps, and configuration details.
 
 ## Installation
 
-Explain how to install any necessary dependencies and how to get your project up and running. For example, you can include:
+
 
 1. Clone the repository:
 
