@@ -15,7 +15,7 @@ jobs:
       
       # Optional: Install PHP dependencies if composer.json is present
       - name: Install PHP dependencies
-        run: composer install
+        run: composer install || true
       
       - name: Upload artifact for deployment
         uses: actions/upload-artifact@v4
